@@ -1,0 +1,12 @@
+{
+    "Bcrypt Hash": {
+        "type": "action",
+        "description": "Hash a string using bcrypt",
+        "function": "bcrypt_hash"
+    },
+    "Bcrypt Verify": {
+        "type": "action",
+        "description": "Verify a string against a bcrypt hash",
+        "function": "bcrypt_verify"
+    }
+}
